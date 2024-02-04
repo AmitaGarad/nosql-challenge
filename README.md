@@ -19,13 +19,13 @@ Eat Safe, Love has specific questions they want you to answer, which will help t
 
 --There are 55 rows in the DataFrame. This is the preview of the first 10 rows:
 	_id     	count
-0	Thanet	    1130
-1	Greenwich	882
-2	Maidstone	713
-3	Newham	    711
-4	Swale	    686
-5	Chelmsford	680
-6	Medway	    672
-7	Bexley	    607
+0	Thanet	   	 1130
+1	Greenwich	 882
+2	Maidstone	 713
+3	Newham	    	 711
+4	Swale	   	 686
+5	Chelmsford	 680
+6	Medway	   	 672
+7	Bexley	   	 607
 8	Southend-On-Sea	586
 9	Tendring	542
